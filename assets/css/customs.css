@@ -1,0 +1,37 @@
+
+
+.navbar-top-links>li>a {
+    color: #000000;
+    /* padding: 0 12px; */
+    line-height: 60px;
+    min-height: 60px;
+}
+
+.navbar-top-links > li > a {
+    color: #000000;
+}
+
+
+
+.navbar-header {
+  background: #ffca4a;
+}
+
+.r-icon-stats i {
+    width: 66px;
+    height: 66px;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    display: inline-block;
+    border-radius: 100%;
+    vertical-align: top;
+    background: #ffca4a;
+}
+
+
+#eliteregister li.active:before, #eliteregister li.active:after{
+background:#01C82C;
+color:#fff;
+}
